@@ -1,0 +1,13 @@
+C:\Users\Студент\Downloads\FaillerOfAllMyKin-master\FailMen\bin\Debug\FailMen.exe.config
+C:\Users\Студент\Downloads\FaillerOfAllMyKin-master\FailMen\bin\Debug\FailMen.exe
+C:\Users\Студент\Downloads\FaillerOfAllMyKin-master\FailMen\bin\Debug\FailMen.pdb
+C:\Users\Студент\Downloads\FaillerOfAllMyKin-master\FailMen\obj\Debug\FailMen.csproj.AssemblyReference.cache
+C:\Users\Студент\Downloads\FaillerOfAllMyKin-master\FailMen\obj\Debug\FailMen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\Downloads\FaillerOfAllMyKin-master\FailMen\obj\Debug\FailMen.Form1.resources
+C:\Users\Студент\Downloads\FaillerOfAllMyKin-master\FailMen\obj\Debug\FailMen.Form2.resources
+C:\Users\Студент\Downloads\FaillerOfAllMyKin-master\FailMen\obj\Debug\FailMen.Form3.resources
+C:\Users\Студент\Downloads\FaillerOfAllMyKin-master\FailMen\obj\Debug\FailMen.Properties.Resources.resources
+C:\Users\Студент\Downloads\FaillerOfAllMyKin-master\FailMen\obj\Debug\FailMen.csproj.GenerateResource.cache
+C:\Users\Студент\Downloads\FaillerOfAllMyKin-master\FailMen\obj\Debug\FailMen.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Downloads\FaillerOfAllMyKin-master\FailMen\obj\Debug\FailMen.exe
+C:\Users\Студент\Downloads\FaillerOfAllMyKin-master\FailMen\obj\Debug\FailMen.pdb
